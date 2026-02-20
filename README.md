@@ -60,7 +60,7 @@ fraud_detection_system/
 │
 ├── main.py
 ├── requirements.txt
-└── README.md
+
 
 ---
 
